@@ -1,0 +1,25 @@
+!DOCTYPE html>
+<html>
+<head>
+<title>HOME</title>
+</head>
+<body>
+    <h1 style="background-color:WHITE;">HEALTH CARE</h1>
+    text-align: center;
+    <h2 style="backgroung color:white;">Dr. ROHITH VARMA</h2>
+  <p style="background-color:white;"></p>
+    <img src="https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA4L3Jhd3BpeGVsX29mZmljZV8yNV9zaW1wbGVfM2RfaWxsdXN0cmF0aW9uX29mX2FfcmVjb3Zlcnlfcm9vbV93aV80ZjhkNDIwNC02N2I4LTQwMDQtYTBlNy05YjljMjIyMzE2ZGVfMS5qcGc.jpg">
+    <div class="city">
+    <form action="/action_page.php">
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname" value=""><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname" value=""><br>
+   <label for="Address">Address:</label><br>
+  <input type="text" id="Address" name="Address" value=""><br>
+  
+  <br>
+  <input type="submit" value="Submit">
+</form>    
+</body>
+</html>
